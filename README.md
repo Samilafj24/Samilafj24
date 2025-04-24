@@ -1,6 +1,6 @@
 
  
-    # 💻 Samila Ferreira
+    💻 Samila Ferreira
 
 **`Desenvolvedora Front-End`**
 
